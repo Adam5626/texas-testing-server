@@ -9,7 +9,9 @@ Flask-Cors==3.0.10
 regex==2023.5.5
 urllib3==1.26.15
 numpy==1.23.5
-tensorflow===2.12.0
+openai==0.27.7
+openapi-schema-pydantic==1.2.4
+tensorflow
 tensorflow-hub==0.13.0
 fastapi==0.96.0
 langchain==0.0.190
