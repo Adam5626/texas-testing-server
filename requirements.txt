@@ -5,3 +5,14 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
+Flask-Cors==3.0.10
+regex==2023.5.5
+urllib3==1.26.15
+numpy==1.23.5
+tensorflow===2.12.0
+tensorflow-hub==0.13.0
+fastapi==0.96.0
+langchain==0.0.190
+langchain-serve==0.0.42
+scikit-learn===1.2.2
+PyMuPDF==1.22.3
